@@ -1,6 +1,6 @@
-body {
+zbody {
     background-color: rgb(11, 14, 16);
-    background-image: url(background-adare-restaurant.jpg);
+    background-image: url('background-adare-restaurant.jpg');
     background-size: cover;
 }
 
